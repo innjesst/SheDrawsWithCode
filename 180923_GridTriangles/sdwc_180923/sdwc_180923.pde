@@ -43,7 +43,7 @@ void draw(){
   t = t+0.06;
   
   if (t<TWO_PI){
-    saveFrame("frames/frame-######.png");
+   // saveFrame("frames/frame-######.png");
   }
   
 }//draw
